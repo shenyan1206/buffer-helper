@@ -31,7 +31,7 @@ $ nmp install @shenyan1206/buffer-helper --save
 
 # example
 ```sh
-var BufferHelper = require("@shenyan1206/Buffer-helper");
+var BufferHelper = require("@shenyan1206/buffer-helper");
 
 var data = Buffer.from("0102030405060708", "hex");
 
