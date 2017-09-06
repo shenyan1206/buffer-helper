@@ -1,6 +1,6 @@
 {
   "name": "@shenyan1206/buffer-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Buffer Helper class for NodeJS",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,8 @@
+const OPERATOR_AND = 1;
+const OPERATOR_OR = 2;
+const OPERATOR_XOR = 3;
+
+
 //constructor
 function BufferHelper(){
 };
