@@ -1,0 +1,23 @@
+{
+  "name": "@shenyan1206/buffer-helper",
+  "version": "1.0.0",
+  "description": "Buffer Helper class for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenyan1206/buffer-helper.git"
+  },
+  "keywords": [
+    "Buffer",
+    "Helper"
+  ],
+  "author": "shenyan1206",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenyan1206/buffer-helper/issues"
+  },
+  "homepage": "https://github.com/shenyan1206/buffer-helper#readme"
+}
