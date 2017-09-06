@@ -6,7 +6,7 @@ Support:
 
 1. Bit Operation over two same length buffers.
 
-2. extract firt N bytes data from buffer.
+2. extract first N bytes data from buffer.
 
 
 
